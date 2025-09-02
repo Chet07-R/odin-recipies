@@ -1,0 +1,17 @@
+
+div{
+    text-align: center;
+    margin:300px auto;
+    background-color:antiquewhite;
+    width:600px;
+}
+
+h1{
+    font-family:monospace;
+}
+
+li{
+    display:inline-block;
+    padding:10px;
+    font-style: italic;
+}
